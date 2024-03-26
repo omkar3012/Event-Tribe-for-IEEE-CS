@@ -19,7 +19,7 @@ const AllServices = () => {
     <Container>
       <h3 className="mt-8 mb-5 text-center uppercase text-secondary font-extrabold text-3xl">
         {/* Book Your Events */}
-        Our Services
+        Our Conferences
       </h3>
       <div className="md:col-span-2 grid grid-cols-1 sm:grid-cols-2 gap-8 lg:gap-24 m-3 lg:m-12">
         {/* card 1  */}
@@ -32,27 +32,26 @@ const AllServices = () => {
             />
             <div className="absolute bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600   hover:bg-gradient-to-br bottom-0 left-0 px-6 py-3 text-white font-semibold rounded-tr-md flex items-center gap-3">
               {" "}
-              <AiOutlineFieldTime /> Order Now
+              <AiOutlineFieldTime /> Participate Now
             </div>
           </div>
           <div className="px-4 py-6">
             <div className="flex justify-between">
               <p className="text-sm text-secondary font-medium flex gap-2">
                 <FaCalendarAlt className="text-primary text-base" />
-                Book Your Date
+                Book Your Seat
               </p>
               <p className="text-sm text-secondary font-medium flex gap-1">
                 <CiLocationOn className="text-primary text-lg font-bold" />
-                In Your Location
+                In Your City
               </p>
             </div>
             <h2 className="p-1 text-center text-2xl mt-2 font-semibold text-secondary capitalize">
-              Craft Your Desired Events
+              Attend Your Desired Events
             </h2>
 
             <p className="my-3 text-center text-sm text-secondary font-medium gap-2">
-              Create unforgettable experiences with custom-designed events
-              tailored to your unique vision and preferences.
+            
             </p>
 
             <div className="flex justify-center">

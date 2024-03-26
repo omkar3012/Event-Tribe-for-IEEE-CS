@@ -10,15 +10,15 @@ const TopBar = () => {
                 <ul className="flex text-sm text-gray-200 gap-3">
                     <li className="hidden md:flex justify-center items-center gap-2">
                         <LuNavigation className="inline"/>
-                        <h3>1213 Dhaka, Bangladesh</h3>
+                        <h3>Maharashtra, India</h3>
                     </li>
                     <li className="flex justify-center items-center gap-2">
                         <LuPhoneCall className="inline"/>
-                        <a href="tel:+8801916498482">+8801916498482</a>
+                        <a href="tel:+919769199334">+91 97691 99334</a>
                     </li>
                     <li className="flex justify-center items-center gap-2">
                         <LuMailOpen className="inline"/>
-                        <a href="mailto:info@dreamcraft.com">info@dreamcraft.com</a>
+                        <a href="mailto:info@ieeecsmaha.com">info@ieeecsmaha.com</a>
                     </li>
                 </ul>
                 <ul className="flex text-md text-gray-200 gap-3">

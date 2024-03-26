@@ -2,7 +2,7 @@ import { useRef, useState } from "react";
 import toast from "react-hot-toast";
 import { FiAlignJustify, FiLogOut, FiUser } from "react-icons/fi";
 import { Link, NavLink, useNavigate } from "react-router-dom";
-import logo from "../../../assets/logo/dream-craft.png";
+import logo from "../../../assets/logo/ieee-main-logo.png";
 import useAuth from "../../../hooks/useAuth";
 import TopBar from "./TopBar";
 // import TopBar from "./TopBar";
@@ -46,7 +46,7 @@ const Navbar = () => {
               className="flex items-center text-neutral-900 hover:text-neutral-900 focus:text-neutral-900  lg:mb-0 lg:mt-0"
               to="/"
             >
-              <img src={logo} className="w-24 md:w-36" alt="DreamCarft Logo" />
+              <img src={logo} className="w-24 md:w-36" alt=" IEEE Logo" />
             </Link>
           </div>
           <div
@@ -74,16 +74,16 @@ const Navbar = () => {
                   Schedule
                 </NavLink>
               </li> */}
-              <li>
+              {/* <li>
                 <NavLink to="/shop" className="border hover:text-primary border-white p-1">
                   Shop
                 </NavLink>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <NavLink to="/about" className="border hover:text-primary border-white p-1">
                   About
                 </NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink to="/portfolio" className="border hover:text-primary border-white p-1">
                   Portfolio

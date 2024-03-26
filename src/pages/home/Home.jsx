@@ -1,7 +1,7 @@
-import TeamCards from "../../components/cards/TeamCards";
+// import TeamCards from "../../components/cards/TeamCards";
 import Booking from "../bookings/Booking";
 import NewsLetter from "../newsLetter/NewsLetter";
-import Organizer from "./Organizer/Organizer";
+// import Organizer from "./Organizer/Organizer";
 // import Banner from "./Banner";
 // import FeatureEvents from "./FeatureEvents";
 import PopularEvents from "./PopularEvents";
@@ -15,11 +15,11 @@ const Home = () => {
       {/* <Banner/> */}
 
       {/* <FeatureEvents/> */}
-      <Organizer />
+      {/* <Organizer /> */}
       <PopularEvents />
 
       <Booking></Booking>
-      <TeamCards />
+      {/* <TeamCards /> */}
       <NewsLetter></NewsLetter>
       {/* <Faqac></Faqac> */}
     </div>

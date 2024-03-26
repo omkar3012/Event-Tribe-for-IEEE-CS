@@ -73,13 +73,14 @@ const MagicBanner = () => {
                 {/* using tailwind  */}
                 <div>
                   <div>
-                    <p className="text-xl ml-1 font-semibold tracking-wider text-slate-300">Dream Craft Events</p>
+                    <p className="text-xl ml-1 font-semibold tracking-wider text-slate-300">IEEE Computer Society Chapter</p>
                   </div>
-                  <div className="my-5"><h1 className="text-3xl lg:text-6xl font-bold text-slate-200">Our Events</h1></div>
+                  <div className="my-5"><h1 className="text-3xl lg:text-6xl font-bold text-slate-200">Upcoming Events</h1></div>
                   <div className="my-5"><h1 className="drop-shadow-2xl text-lime-500 text-5xl lg:text-7xl font-bold">Book Now!</h1></div>
                   <div className="w-2/3 hidden lg:flex ">
                     <p className="text-slate-200">
-                      From elegant soirées to lively gatherings, we curate diverse events for every occasion, guaranteeing a memorable experience for all guests.
+                      Empowering Innovations: Uniting minds, shaping the future – IEEE Computer Society Chapter pioneers technology for tomorrow&apos;s world.
+
                     </p>
                   </div>
                 </div>

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "../../../assets/logo/dream-craft.png";
+import logo from "../../../assets/logo/ieee-main-logo.png";
 import Container from "../../container/Container";
 
 const Footer = () => {
@@ -19,9 +19,7 @@ const Footer = () => {
               <img src={logo} alt="" />
             </div>
             <p className="mt-6 max-w-md text-center leading-relaxed text-gray-500 sm:max-w-xs sm:text-left">
-              At Dream Craft Events, we specialize in turning your events into
-              extraordinary experiences. Our Event Management System is crafted
-              to simplify every aspect of planning, booking, and execution.
+              IEEE CS chapters serve as platforms for professionals, researchers, and students to exchange ideas, collaborate on projects, and contribute to the advancement of computer science and technology.
             </p>
             <ul className="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">
               <li>
@@ -193,7 +191,7 @@ const Footer = () => {
                     />
                   </svg>
                   <span className="md:flex-1 text-gray-700">
-                  <a href="mailto:info@dreamcraft.com">info@dreamcraft.com</a>                  </span>
+                  <a href="mailto:info@ieeecsmaha.com">info@ieeecsmaha.com</a>                  </span>
                 </li>
 
 
@@ -218,7 +216,7 @@ const Footer = () => {
                       />
                     </svg>
                     <span className="md:flex-1 text-gray-700">
-                      <a href="tel:+8801916498482">+8801916498482</a>
+                      <a href="tel:+919769199334">+91 97691 99334</a>
                     </span>
                   </Link>
                 </li>
@@ -243,7 +241,7 @@ const Footer = () => {
                     />
                   </svg>
                   <address className="-mt-0.5 md:flex-1 not-italic text-gray-700">
-                    1213 Dhaka, Bangladesh</address>
+                    Maharashtra, India</address>
                 </li>
               </ul>
             </div>
@@ -255,7 +253,7 @@ const Footer = () => {
               <span className="block sm:inline">All rights reserved.</span>
             </p>
             <p className="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
-              © {new Date().getFullYear()} Dream Craft Events
+              © {new Date().getFullYear()} IEEE CS Chapter, Maharashtra
             </p>
           </div>
         </div>

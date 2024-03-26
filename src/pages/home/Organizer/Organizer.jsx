@@ -12,12 +12,12 @@ const Organizer = () => {
                         <img className='rounded-md' src={organizer} alt="" />
                     </div>
                     <div className='flex-1 bg-white md:-ml-20 p-12 rounded-md'>
-                        <h2 className='text-2xl text-dark_01 md:text-5xl font-semibold'>Host Your Event with Us</h2>
+                        <h2 className='text-2xl text-dark_01 md:text-5xl font-semibold'>Publish your papers with us</h2>
                         <p className='text-secondary my-4 text-justify'>
-                            Dream Craft Events: Where your vision meets perfection. From corporate conferences to intimate gatherings, we specialize in flawless event management. With our expertise, let us handle the stress while you enjoy every moment. Contact us today and let&apos;s create magic together.
+                            IEEE CS chapters serve as platforms for professionals, researchers, and students to exchange ideas, collaborate on projects, and contribute to the advancement of computer science and technology.
                         </p>
                         <Link to='request-organizer'>
-                            <button className="bg-primary px-6 py-3 rounded-md text-white uppercase">Request Organizer</button>
+                            <button className="bg-primary px-6 py-3 rounded-md text-white uppercase">Search Conferences</button>
                         </Link>
                     </div>
                 </div>
