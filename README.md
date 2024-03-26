@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management System and Booking Platform
 
 Welcome to the Event Management System, a project built with MERN.
@@ -125,3 +126,6 @@ Feel free to reach out if you have any questions or need further assistance!
 
 
 
+=======
+# hmi-lab-ieee-cs
+>>>>>>> f0940474ac46576ed955726f0be700d91a277eba
