@@ -37,13 +37,3 @@ Organiser Dashboard:
 
 User Dashboard:
 ![image](https://github.com/omkar3012/hmi-lab-ieee-cs/assets/95969528/7ebf1e66-53e9-466f-a4e6-5bc08521a63d)
-
-
-
-
-
-
-
-=======
-# hmi-lab-ieee-cs
->>>>>>> f0940474ac46576ed955726f0be700d91a277eba
