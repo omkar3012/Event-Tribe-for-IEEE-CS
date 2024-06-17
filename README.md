@@ -1,4 +1,4 @@
-# EventTribe: THe Event Management System and Booking Platform
+# EventTribe: The Event Management System and Booking Platform
 
 Welcome to the EventTribe - an Event Management System, developed using MERN stack as a part of a Human Machine Interaction project.
 
@@ -23,29 +23,20 @@ The motivation for this project was to create a User Interface which allowed for
 
 
 ## Preview 
+Landing Page:
+![image](https://github.com/omkar3012/hmi-lab-ieee-cs/assets/95969528/a45bd886-78c2-40ec-8148-6d9c0d39f0c3)
 
+Booking:
+![image](https://github.com/omkar3012/hmi-lab-ieee-cs/assets/95969528/72d9602f-9b7b-44ee-8ff8-2a854b6b5b79)
 
-## Main Features
+Events:
+![image](https://github.com/omkar3012/hmi-lab-ieee-cs/assets/95969528/c0fa031b-4094-4a98-8d3d-723ab7a99f8a)
 
+Organiser Dashboard: 
+![image](https://github.com/omkar3012/hmi-lab-ieee-cs/assets/95969528/3e78ea77-494a-48a2-b9d1-01e219f4d3d2)
 
-
-
-## Credentials
-
-**Admin login:**
-
-- Email: admin@gmail.com
-- Password: 123456
-
-**Event Organizer login:**
-
-- Email: organizer@gmail.com
-- Password: 123456
-
-**User login:**
-
-- Email: user@gmail.com
-- Password: 123456
+User Dashboard:
+![image](https://github.com/omkar3012/hmi-lab-ieee-cs/assets/95969528/7ebf1e66-53e9-466f-a4e6-5bc08521a63d)
 
 
 
